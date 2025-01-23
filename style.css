@@ -39,9 +39,10 @@ header > p{
 }
 
 a{
-    color: white;
     text-decoration: none;
+    color: white;
     font-weight: bolder;
+    font-size: 1em;
 }
 
 a:hover{
